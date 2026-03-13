@@ -49,5 +49,5 @@ pino_quadrado_grande = PinoQuadrado(10)
 adaptador_pequeno = AdaptadorPinoQuadrado(pino_quadrado_pequeno)
 adaptador_grande = AdaptadorPinoQuadrado(pino_quadrado_grande)
 
-print("Pino quadrado pequeno encaixa:", buraco.encaixa(adaptador_pequeno))
-print("Pino quadrado grande encaixa:", buraco.encaixa(adaptador_grande))
+print("Pino quadrado p encaixa:", buraco.encaixa(adaptador_pequeno))
+print("Pino quadrado g encaixa:", buraco.encaixa(adaptador_grande))
